@@ -1,13 +1,5 @@
-h2.intro {
+.intro {
   text-align: center;
-  color: red;
-}
-
-p.intro {
-  color: blue;
-  font-style: italic;
-}
-
-img.intro {
-  width: 75%;
+  color: purple;
+  width: 75%
 }
