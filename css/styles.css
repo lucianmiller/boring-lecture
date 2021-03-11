@@ -3,3 +3,10 @@
   color: purple;
   width: 75%
 }
+
+#highlight {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: yellow;
+}
